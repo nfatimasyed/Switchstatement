@@ -1,0 +1,14 @@
+C:\FatimaSyed_Assignment\app\bin\Debug\app.exe.config
+C:\FatimaSyed_Assignment\app\bin\Debug\app.exe
+C:\FatimaSyed_Assignment\app\bin\Debug\app.pdb
+C:\FatimaSyed_Assignment\app\obj\Debug\app.csproj.AssemblyReference.cache
+C:\FatimaSyed_Assignment\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\FatimaSyed_Assignment\app\obj\Debug\app.exe
+C:\FatimaSyed_Assignment\app\obj\Debug\app.pdb
+E:\copy\app\bin\Debug\app.exe.config
+E:\copy\app\bin\Debug\app.exe
+E:\copy\app\bin\Debug\app.pdb
+E:\copy\app\obj\Debug\app.csproj.AssemblyReference.cache
+E:\copy\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+E:\copy\app\obj\Debug\app.exe
+E:\copy\app\obj\Debug\app.pdb
